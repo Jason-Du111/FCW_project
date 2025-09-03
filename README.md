@@ -1,2 +1,2 @@
 # FCW_project
-this is a MOT and collision warning project
+Multi-object tracking and collision warning project from drone perspective
